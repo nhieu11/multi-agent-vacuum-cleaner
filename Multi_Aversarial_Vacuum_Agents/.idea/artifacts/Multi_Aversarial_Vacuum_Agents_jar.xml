@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Multi_Aversarial_Vacuum_Agents:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Multi_Aversarial_Vacuum_Agents_jar</output-path>
+    <root id="archive" name="Multi_Aversarial_Vacuum_Agents.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
